@@ -1,7 +1,7 @@
 List of files
 -------------
 
-main.c : main application file  
+main.c : main application C file  
 spi.c & spi.h : SPI bus library files  
 gpio.c & gpio.h : GPIO library files  
 init.c & init.h : Interrupt Contoller and Timer initialization library files  
